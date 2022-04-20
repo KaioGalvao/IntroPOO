@@ -1,6 +1,6 @@
 # Quadrado e Retângulo
 
-Aplicação console para cálculo a Área e o Perímetro de um quadrado ou retangulo.
+Aplicação console para o cálculo da Área e o Perímetro de um quadrado ou retangulo.
 
 ## Funcionalidades
 
